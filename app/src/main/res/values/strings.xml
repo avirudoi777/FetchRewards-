@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fetchrewards</string>
+
+    <!-- Error Messages -->
+    <string name="error_no_items">No items found</string>
+    <string name="error_no_valid_items">No valid items found</string>
+    <string name="error_network">Network error: Please check your connection</string>
+    <string name="error_not_found">Items not found</string>
+    <string name="error_server">Server error: Please try again later</string>
+    <string name="error_http">HTTP Error: %1$d</string>
+    <string name="error_processing_items">Error processing items: %1$s</string>
+    <string name="error_unexpected">Unexpected error: %1$s</string>
+    <string name="error_unknown">Unknown error</string>
+
+    <string name="list_id_format">List ID: %1$d</string>
+    <string name="retry">Retry</string>
+</resources>
